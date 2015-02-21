@@ -28,7 +28,8 @@
 		{url: 'spotify:track:7pMVB2oz4Q4SlfTvvevNro', time: 23, title: 'Everlast - What Its Like', solution: 57},
 		{url: 'spotify:track:7wR9mYwvRtPE0G7MHSTW8C', time: 74, title: 'Moloko - Sing It Back', solution: 106},
 		{url: 'spotify:track:5k68G0l4XbYskcczLtgPLs', time: 113, title: 'Kosheen - Hide U', solution: 144},
-		{url: 'spotify:track:5k68G0l4XbYskcczLtgPLs', time: 113, title: 'Kosheen - Hide U', solution: 144},
+		{url: 'spotify:track:7jQBORjiir0pNSKGaHevq9', time: 113, title: 'Lou Bega - Mambo No. 5 (A little bit of...)', solution: 71},
+		{url: 'spotify:track:7jQBORjiir0pNSKGaHevq9', time: 113, title: 'Lou Bega - Mambo No. 5 (A little bit of...)', solution: 71},
 	],
 	intros: [
 		{url: 'spotify:track:1IIdB3PPQscrD2VqdvnUkx', title: 'The Rolling Stones - Angie'},
@@ -49,5 +50,13 @@
 		{url: 'spotify:track:3aRn4Q8EdXvyUhVNi7925L', title: 'Kaiser Chiefs - Ruby', solution: 50},
 		{url: 'spotify:track:5eaNQVfjmVxdlQMZufasn0', title: 'Gotye - Somebody That I Used To Know', solution: 109},
 		{url: 'spotify:track:5NIyDZfdnMGRXnwbX2kwA4', title: 'Just Jack - Starz In Their Eyes', solution: 63},
-	]
+		{url: 'spotify:track:33iv3wnGMrrDugd7GBso1z', title: 'Lit - My Own Worst Enemy', solution: 35},
+		{url: 'spotify:track:2rgqPSIRAfaO2MGo9smdSX', title: 'ABBA - Dancing Queen', solution: 29},
+	],
+	mensen: [
+		{url: 'spotify:track:1BpaC2e2guC1JyuM1BVIEd', time:27, title: 'Diether Krebs - Ich bin der Martin, ne?', dude: 'Martijn'},
+		{url: 'spotify:track:0FMhMAFPLg8EljnROSoVnj', time:34, title: 'ZZ Top - La Grange', dude: 'Wouter'},
+		{url: 'spotify:track:1juKLNmTdLlhlIDd3lr2p3', time:32, title: 'Arcade Fire - Neighborhood #1', dude: 'Nadine'},
+	],
+	blof: {url: 'spotify:track:6N2DxU6L7pud32MppL8cQc', time: 193, title: 'Blof - Nergens meer naartoe'}
 }
