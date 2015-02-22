@@ -1,5 +1,7 @@
 { items :
 	[
+		{ uri: 'spotify:track:08QaHlMPWuO5PUxjl61bXn', title: 'Klaus Badelt - He\'s a pirate', movie: 'Pirates Of The Caribbean'},
+		{ uri: 'spotify:track:779ooI3rBd0CLqCiiJmtVo', time: 80, title: 'Chad Kroeger feat. Josey Scott - Hero', movie: 'Spiderman'},
 		{ url: 'spotify:track:3ZIc2FPrXSZXSF6Bf1GElJ', title: 'Rolfe Kent - Dexter Main Title', soundtrack: 'Dexter'},
 		{ url: 'spotify:track:0r2Bul2NuCViraT2zX1l5j', title: 'Lil Jon, Ying Yang Twins - Get Low', soundtrack: 'Need For Speed Underground'},
 		{ url: 'spotify:track:7EU5JRNujZK6FttnNvRKHx', time: 48, title: 'Eddy Murphy & Antionio Banderas - Livin La Vida Loca', soundtrack: 'Shrek 2'},
